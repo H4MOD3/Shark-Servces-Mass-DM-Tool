@@ -35,7 +35,7 @@ Put your bot token in the `settings.json`.
 
 **Result:**
 
-![Result](![image](https://user-images.githubusercontent.com/111201336/229263093-e9d98756-0d2c-4b42-9cfb-75f9a93b1876.png))
+![Result](https://user-images.githubusercontent.com/111201336/229263093-e9d98756-0d2c-4b42-9cfb-75f9a93b1876.png)
 
 **Setup:**
 1. Run `Launch.bat` file to install required modules.
